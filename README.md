@@ -2,44 +2,45 @@
 
 ### مبرمج يسعى للتميز من خلال منطق برمجي قوي 🧠
 
-أنا لا أؤمن بكتابة الكود لمجرد أن "يعمل"، بل أهتم بكيفية بنائه ليكون فعالاً، منظماً، وقابلاً للقراءة. أقضي يومي في حل التحديات البرمجية وبناء الأنظمة الوظيفية التي تحاكي الواقع.
+أنا لا أؤمن بكتابة الكود لمجرد أن "يعمل"، بل أهتم بكيفية بنائه ليكون فعالاً، منظماً، وقابلاً للقراءة. أقضي يومي في بناء الأنظمة الوظيفية وحل التحديات البرمجية.
 
 ---
 
-### 🚀 أقوى المشاريع (Top Functional Systems)
-هذه المشاريع هي نتاج تطبيق مفاهيم البرمجة المتقدمة وإدارة الذاكرة والبيانات:
+### 🚀 الأنظمة الوظيفية والمشاريع (Functional Systems)
+لقد قمت ببناء هذه الأنظمة لتطبيق كل ما تعلمته من منطق برمجي وإدارة بيانات:
 
-* **[نظام البنك - Bank System](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/07%20-%20Algorithms%20%26%20Problem%20Solving%20Level%203)** 🏦
-    * نظام متكامل لإدارة الحسابات، العملاء، والعمليات المصرفية مع حفظ البيانات في ملفات.
-* **[نظام الصراف الآلي - ATM System](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/08%20-%20Algorithms%20%26%20Problem%20Solving%20Level%204)** 🏧
-    * محاكاة كاملة لعمليات السحب والإيداع وتغيير كلمة المرور مع واجهة مستخدم منطقية ومنظمة.
-* **[حلول الخوارزميات - Problem Solving Solutions](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/04%20-%20Algorithms%20%26%20Problem-Solving%20%E2%80%93%20Level%201%20(Solutions))** 🧩
-    * مستودع يحتوي على مئات الحلول البرمجية لمشكلات خوارزمية متنوعة لتقوية المنطق.
+* 🏧 **[نظام الصراف الآلي (ATM System)](https://github.com/ammmrrr18-cloud/08-Algorithms-Level-4-Project-2-ATM-System)** - نظام متكامل لعمليات السحب والإيداع وإدارة الحساب.
+* 🏦 **[نظام البنك - الإصدار الثالث (Bank Extension 2)](https://github.com/ammmrrr18-cloud/08-Algorithms-Level-4-Bank-Extension-2)** - تطوير متقدم لنظام البنك مع ميزات إضافية.
+* 💳 **[نظام البنك - الإصدار الثاني (Bank Extension)](https://github.com/ammmrrr18-cloud/Project-2---Bank-Extension---Level-7)** - توسعة وتطوير منطق إدارة الحسابات.
+* 🏛️ **[نظام البنك - الإصدار الأول (Bank Project)](https://github.com/ammmrrr18-cloud/07-Algorithms-Level-3-Bank-Project)** - حجر الأساس لبناء الأنظمة البنكية وإدارة الملفات.
+* 🧮 **[لعبة الرياضيات (Math Game)](https://github.com/ammmrrr18-cloud/05-Algorithms-Level-2-Project-1-Math-Game)** - نظام لاختبار مهارات الحساب وتوليد الأسئلة منطقياً.
+* ✂️ **[لعبة حجر ورقة مقص (Stone Paper Scissor)](https://github.com/ammmrrr18-cloud/Project-1-Stone---Paper---Scissor)** - تطبيق عملي على منطق الألعاب وتفاعل المستخدم.
 
 ---
 
 ### 📈 رحلة التطور (Learning Progress)
-لقد أتممت بنجاح **10 مستويات** من التأسيس البرمجي العميق، وأعمل حالياً في المستوى الحادي عشر (OOP Applications).
+أتممت بنجاح **10 مستويات** من التأسيس البرمجي العميق، وأعمل حالياً في المستوى الحادي عشر (OOP Applications).
 
-> 🔗 يمكنك الاطلاع على **الجدول الكامل للمستويات** وتفاصيل كل مرححة [من هنا](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap#-roadmap-levels).
-
----
-
-### 🛠️ عدتي البرمجية (Tech Stack)
-- **لغات البرمجة:** C++ (إتقان المفاهيم المتقدمة وإدارة الذاكرة).
-- **المنهجية:** البرمجة الكائنية (OOP)، الكود النظيف (Clean Code).
-- **الأدوات:** Visual Studio, Git & GitHub.
+> 🔗 يمكنك الاطلاع على **الجدول الكامل للمسار** وتفاصيل كل مرحلة [من هنا](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap#-roadmap-levels).
 
 ---
 
-### 📊 إحصائيات جيتهاب (GitHub Stats)
+### 🛠️ المهارات (Skills)
+- **C++:** (المؤشرات، إدارة الذاكرة، معالجة الملفات).
+- **Object-Oriented Programming (OOP):** بناء أنظمة قابلة للتوسع.
+- **Problem Solving:** حل المشكلات وبناء الخوارزميات.
+- **Tools:** Git, GitHub, Visual Studio.
+
+---
+
+### 📊 الإحصائيات (GitHub Stats)
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammmrrr18-cloud&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 تواصل معي
-* **LinkedIn:** [ضع رابط حسابك هنا]
-* **Email:** [ضع بريدك الإلكتروني هنا]
+* **LinkedIn:** [رابط حسابك]
+* **Email:** [بريدك الإلكتروني]
 
 ---
 *"البرمجيات هي لغة العصر، وأنا أتعلم كيف أتحدثها بطلاقة."*
