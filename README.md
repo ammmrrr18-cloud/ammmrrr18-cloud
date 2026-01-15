@@ -1,7 +1,7 @@
 # 👋 أهلاً، أنا علي
 
 <p align="center">
-  <img src="https://i.imgur.com/your_hello_world_cpp_gif.gif" width="100%" height="250" style="object-fit: cover;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZ3ZueXp3eHozbm96Z3ZueXp3eHozbm96Z3ZueXp3eHozbm8mZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="280" style="object-fit: cover;" />
 </p>
 
 ### مبرمج يسعى للتميز من خلال منطق برمجي قوي 🧠
@@ -43,4 +43,3 @@
 
 ---
 *"البرمجيات هي لغة العصر، وأنا أتعلم كيف أتحدثها بطلاقة."*
-```http://googleusercontent.com/image_generation_content/4
