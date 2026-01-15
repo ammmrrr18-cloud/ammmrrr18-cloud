@@ -9,12 +9,12 @@
 ### 🚀 الأنظمة الوظيفية والمشاريع (Functional Systems)
 لقد قمت ببناء هذه الأنظمة لتطبيق كل ما تعلمته من منطق برمجي وإدارة بيانات:
 
-* 🏧 **[نظام الصراف الآلي (ATM System)](https://github.com/ammmrrr18-cloud/08-Algorithms-Level-4-Project-2-ATM-System)** - نظام متكامل لعمليات السحب والإيداع وإدارة الحساب.
-* 🏦 **[نظام البنك - الإصدار الثالث (Bank Extension 2)](https://github.com/ammmrrr18-cloud/08-Algorithms-Level-4-Bank-Extension-2)** - تطوير متقدم لنظام البنك مع ميزات إضافية.
-* 💳 **[نظام البنك - الإصدار الثاني (Bank Extension)](https://github.com/ammmrrr18-cloud/Project-2---Bank-Extension---Level-7)** - توسعة وتطوير منطق إدارة الحسابات.
-* 🏛️ **[نظام البنك - الإصدار الأول (Bank Project)](https://github.com/ammmrrr18-cloud/07-Algorithms-Level-3-Bank-Project)** - حجر الأساس لبناء الأنظمة البنكية وإدارة الملفات.
-* 🧮 **[لعبة الرياضيات (Math Game)](https://github.com/ammmrrr18-cloud/05-Algorithms-Level-2-Project-1-Math-Game)** - نظام لاختبار مهارات الحساب وتوليد الأسئلة منطقياً.
-* ✂️ **[لعبة حجر ورقة مقص (Stone Paper Scissor)](https://github.com/ammmrrr18-cloud/Project-1-Stone---Paper---Scissor)** - تطبيق عملي على منطق الألعاب وتفاعل المستخدم.
+* 🏧 **[نظام الصراف الآلي (ATM System)](https://github.com/ammmrrr18-cloud/08-Algorithms-Level-4-Project-2-ATM-System)**
+* 🏦 **[نظام البنك - الإصدار الثالث (Bank Extension 2)](https://github.com/ammmrrr18-cloud/08-Algorithms-Level-4-Bank-Extension-2)**
+* 💳 **[نظام البنك - الإصدار الثاني (Bank Extension)](https://github.com/ammmrrr18-cloud/Project-2---Bank-Extension---Level-7)**
+* 🏛️ **[نظام البنك - الإصدار الأول (Bank Project)](https://github.com/ammmrrr18-cloud/07-Algorithms-Level-3-Bank-Project)**
+* 🧮 **[لعبة الرياضيات (Math Game)](https://github.com/ammmrrr18-cloud/05-Algorithms-Level-2-Project-1-Math-Game)**
+* ✂️ **[لعبة حجر ورقة مقص (Stone Paper Scissor)](https://github.com/ammmrrr18-cloud/Project-1-Stone---Paper---Scissor)**
 
 ---
 
@@ -25,24 +25,17 @@
 
 ---
 
-### 🛠️ المهارات (Skills)
-- **C++:** (المؤشرات، إدارة الذاكرة، معالجة الملفات).
-- **Object-Oriented Programming (OOP):** بناء أنظمة قابلة للتوسع.
-- **Problem Solving:** حل المشكلات وبناء الخوارزميات.
-- **Tools:** Git, GitHub, Visual Studio.
-
----
-
-### 📊 نشاطي البرمجي (GitHub Streak)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammmrrr18-cloud&theme=tokyonight&hide_border=true" alt="Ali's GitHub Activity" />
-</p>
+### 🛠️ المهارات (Tech Stack)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OOP](https://img.shields.io/badge/Object--Oriented_Programming-FFD700?style=for-the-badge&logo=probot&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
 ### 📫 تواصل معي
-* **LinkedIn:** [ضع رابط حسابك هنا]
-* **Email:** [ضع بريدك الإلكتروني هنا]
+* **LinkedIn:** [رابط حسابك]
+* **Email:** [بريدك الإلكتروني]
 
 ---
 *"البرمجيات هي لغة العصر، وأنا أتعلم كيف أتحدثها بطلاقة."*
