@@ -6,18 +6,22 @@
 
 ---
 
-### 🔥 أنظمة وظيفية (Functional Systems) أفتخر بها
-بنيت عدة مشاريع ركزت فيها على تطبيق مفاهيم البرمجة المتقدمة وإدارة البيانات:
-- **نظام البنك (Bank System):** إدارة شاملة للحسابات والعملاء مع معالجة دقيقة للبيانات باستخدام الملفات.
-- **نظام الصراف الآلي (ATM System):** محاكاة كاملة لعمليات السحب، الإيداع، والاستعلام بأمان وكفاءة.
-- **تحديات الخوارزميات:** حل مئات المشكلات البرمجية لتقوية عضلة التفكير المنطقي.
+### 🚀 أقوى المشاريع (Top Functional Systems)
+هذه المشاريع هي نتاج تطبيق مفاهيم البرمجة المتقدمة وإدارة الذاكرة والبيانات:
+
+* **[نظام البنك - Bank System](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/07%20-%20Algorithms%20%26%20Problem%20Solving%20Level%203)** 🏦
+    * نظام متكامل لإدارة الحسابات، العملاء، والعمليات المصرفية مع حفظ البيانات في ملفات.
+* **[نظام الصراف الآلي - ATM System](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/08%20-%20Algorithms%20%26%20Problem%20Solving%20Level%204)** 🏧
+    * محاكاة كاملة لعمليات السحب والإيداع وتغيير كلمة المرور مع واجهة مستخدم منطقية ومنظمة.
+* **[حلول الخوارزميات - Problem Solving Solutions](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap/tree/main/04%20-%20Algorithms%20%26%20Problem-Solving%20%E2%80%93%20Level%201%20(Solutions))** 🧩
+    * مستودع يحتوي على مئات الحلول البرمجية لمشكلات خوارزمية متنوعة لتقوية المنطق.
 
 ---
 
 ### 📈 رحلة التطور (Learning Progress)
-لقد أتممت بنجاح **10 مستويات** من التأسيس البرمجي العميق (حسب منهجية Programming Advices)، وأعمل حالياً في المستوى الحادي عشر.
+لقد أتممت بنجاح **10 مستويات** من التأسيس البرمجي العميق، وأعمل حالياً في المستوى الحادي عشر (OOP Applications).
 
-> 🔗 يمكنك الاطلاع على **الجدول الكامل للمستويات** وتفاصيل كل مرحلة [من هنا](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap#-roadmap-levels).
+> 🔗 يمكنك الاطلاع على **الجدول الكامل للمستويات** وتفاصيل كل مرححة [من هنا](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap#-roadmap-levels).
 
 ---
 
