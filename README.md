@@ -33,9 +33,9 @@
 
 ---
 
-### 📊 إحصائيات جيتهاب (GitHub Stats)
+### 📊 نشاطي البرمجي (GitHub Streak)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammmrrr18-cloud&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ali's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammmrrr18-cloud&theme=tokyonight&hide_border=true" alt="Ali's GitHub Activity" />
 </p>
 
 ---
