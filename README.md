@@ -1,7 +1,9 @@
 # 👋 أهلاً، أنا علي
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZ3ZueXp3eHozbm96Z3ZueXp3eHozbm96Z3ZueXp3eHozbm8mZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="280" style="object-fit: cover;" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=cout+%3C%3C+%22Hello+World!%22+%3C%3C+endl%3B;Building+Functional+Systems...;Logic+is+Everything..." alt="Typing SVG" />
+  </a>
 </p>
 
 ### مبرمج يسعى للتميز من خلال منطق برمجي قوي 🧠
@@ -38,8 +40,8 @@
 ---
 
 ### 📫 تواصل معي
-* **LinkedIn:** [رابط حسابك]
-* **Email:** [بريدك الإلكتروني]
+* **LinkedIn:** [ضع رابط حسابك هنا]
+* **Email:** [ضع بريدك الإلكتروني هنا]
 
 ---
 *"البرمجيات هي لغة العصر، وأنا أتعلم كيف أتحدثها بطلاقة."*
