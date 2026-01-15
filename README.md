@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=cout+%3C%3C+%22Hello+World!%22+%3C%3C+endl%3B;Building+Functional+Systems...;Logic+is+Everything..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=cout+%3C%3C+%22Hello+World!%22+%3C%3C+endl%3B" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,8 +26,6 @@
 
 ### 📈 رحلة التطور (Learning Progress)
 أتممت بنجاح **10 مستويات** من التأسيس البرمجي العميق، وأعمل حالياً في المستوى الحادي عشر (OOP Applications).
-
-> 🔗 يمكنك الاطلاع على **الجدول الكامل للمسار** وتفاصيل كل مرحلة [من هنا](https://github.com/ammmrrr18-cloud/Programming-Foundations-Roadmap#-roadmap-levels).
 
 ---
 
