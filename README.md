@@ -33,14 +33,16 @@
 
 ---
 
-### 📊 الإحصائيات (GitHub Stats)
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=ammmrrr18-cloud&show_icons=true&theme=radical)
+### 📊 إحصائيات جيتهاب (GitHub Stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ammmrrr18-cloud&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ali's GitHub Stats" />
+</p>
 
 ---
 
 ### 📫 تواصل معي
-* **LinkedIn:** [رابط حسابك]
-* **Email:** [بريدك الإلكتروني]
+* **LinkedIn:** [ضع رابط حسابك هنا]
+* **Email:** [ضع بريدك الإلكتروني هنا]
 
 ---
 *"البرمجيات هي لغة العصر، وأنا أتعلم كيف أتحدثها بطلاقة."*
