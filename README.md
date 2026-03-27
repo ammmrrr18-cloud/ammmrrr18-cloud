@@ -15,6 +15,7 @@ I don't believe in writing code just so it "works." I focus on building efficien
 ### 🚀 Functional Systems & Projects
 I have built these systems to apply everything I've learned about programming logic and data management:
 
+* 🏦 **[Bank System - Full Source Code (OOP)](https://github.com/ammmrrr18-cloud/Bank-System-Project-Full-Source-Code-OOP-L11)**
 * 🏧 **[ATM System](https://github.com/ammmrrr18-cloud/08-Algorithms-Level-4-Project-2-ATM-System)**
 * 🏦 **[Bank System - Extension 2](https://github.com/ammmrrr18-cloud/08-Algorithms-Level-4-Bank-Extension-2)**
 * 💳 **[Bank System - Extension 1](https://github.com/ammmrrr18-cloud/Project-2---Bank-Extension---Level-7)**
@@ -40,7 +41,7 @@ I have successfully completed **10 levels** of deep programming foundations and 
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [Your Profile Link Here]
+* **LinkedIn:** [https://www.linkedin.com/in/ali-rifai-64b920379/](https://www.linkedin.com/in/ali-rifai-64b920379/)
 * **Email:** [Your Email Address Here]
 
 ---
